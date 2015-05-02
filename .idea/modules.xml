@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IndicatorTab.iml" filepath="$PROJECT_DIR$/IndicatorTab.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/underlinesindicator/underlinesindicator.iml" filepath="$PROJECT_DIR$/underlinesindicator/underlinesindicator.iml" />
     </modules>
   </component>
 </project>

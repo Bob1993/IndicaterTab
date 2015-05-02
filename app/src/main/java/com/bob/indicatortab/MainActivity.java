@@ -33,6 +33,7 @@ public class MainActivity extends FragmentActivity {
         pager.setOnPageChangeListener();*/
     }
 
+
     class TabPageIndicatorAdapter extends FragmentPagerAdapter{
 
         public TabPageIndicatorAdapter(FragmentManager fm){//构造父类

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="textIndicator" >
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#ff696969</item>
+    </style>
+
+</resources>
